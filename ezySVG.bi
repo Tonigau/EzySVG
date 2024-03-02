@@ -1,3 +1,4 @@
+'   *.bi linguist-language=Freebasic
 ' ezySVG.bi
 ' Make SVG from Freebasic code            ToniG      Create: 2023.12.20
 '                                         File Version 0.92.1  2023.02.16 
