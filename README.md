@@ -1,6 +1,6 @@
 # EzySVG lib for freebasic  
 
-**EzySVG88** is a simplified library of commands to enable creating SVG files in your FB code.  
+**EzySVG.bi** is a simplified library with commands to enable creating SVG files in your FB code.  
 See Test ezySVG_1.bas for example usage.  
 I started this project as I needed to import vector data to CDRx4 from my logic analyzer to annotate the captured data graphically.   
 
